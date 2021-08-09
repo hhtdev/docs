@@ -1,6 +1,6 @@
 # Docs
 Ensemble de templates pour la conception de projet.
 
-## Format DOCX
+### Format DOCX
 
-## Format ODF
+### Format ODF
